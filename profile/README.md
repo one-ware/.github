@@ -1,12 +1,9 @@
-## Hi there 👋
+![Logo_ware_white_b](https://github.com/one-ware/.github/assets/25281882/cf9eadce-802e-4228-ac67-ff6fbd4446f0)
 
-<!--
+[Home](https://one-ware.com)
 
-**Here are some ideas to get you started:**
+[Cloud](https://nextcloud.one-ware.com)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[PLC-ONE](https://plc-one.net)
+
+[Studio](https://oneware.studio)
