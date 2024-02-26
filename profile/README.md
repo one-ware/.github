@@ -2,8 +2,6 @@
 
 [Home](https://one-ware.com)
 
-[Cloud](https://nextcloud.one-ware.com)
-
 [PLC-ONE](https://plc-one.net)
 
 [Studio](https://oneware.studio)
